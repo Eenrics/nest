@@ -23,7 +23,7 @@
 
 ## Description
 
-Nest is a framework for building efficient, scalable <a href="http://nodejs.org" target="_blank">Node.js</a> server-side applications. It uses modern JavaScript, is built with  <a href="http://www.typescriptlang.org" target="_blank">TypeScript</a> (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+Nest is a framework for building efficient, scalable <a href="https://nodejs.org" target="_blank">Node.js</a> server-side applications. It uses modern JavaScript, is built with  <a href="https://www.typescriptlang.org" target="_blank">TypeScript</a> (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
 
 <p>Under the hood, Nest makes use of <a href="https://expressjs.com/" target="_blank">Express</a>, but also, provides compatibility with a wide range of other libraries, like e.g. <a href="https://github.com/fastify/fastify" target="_blank">Fastify</a>, allowing for easy use of the myriad third-party plugins which are available.</p>
 
@@ -85,7 +85,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 #### Silver Sponsors
 
-<table style="text-align:center;"><tr><td>
+<table style="text-align:center;"><tr>
 <td><a href="https://n.inc" target="_blank"><img src="https://nestjs.com/img/n-inc-logo.svg" width="120" valign="middle" /></td></tr>
 </table>
 
@@ -111,6 +111,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
  <td align="center" valign="middle"><a href="https://nordbot.app/" target="_blank"><img src="https://nestjs.com/img/nordbot-logo.png" width="120" valign="middle" /></a></td></tr><tr>
  <td align="center" valign="middle"><a href="https://doppio.sh/" target="_blank"><img src="https://nestjs.com/img/dopiosh-logo.png" width="50" valign="middle" /></a></td>
    <td align="center" valign="middle"><a href="https://www.hingehealth.com/" target="_blank"><img src="https://nestjs.com/img/hinge-health-logo.svg" width="100" valign="middle" /></a></td>
+   <td align="center" valign="middle"><a href="https://julienferand.dev/" target="_blank"><img src="https://nestjs.com/img/julienferand-logo.jpeg" width="65" valign="middle" /></a></td>
+   <td align="center" valign="middle"><a href="https://www.tripoffice.com/" target="_blank"><img src="https://nestjs.com/img/tripoffice-logo.png" width="140" valign="middle" /></a></td>
   </tr></table>
 
 ## Backers
